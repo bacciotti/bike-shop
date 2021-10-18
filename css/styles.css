@@ -1,0 +1,135 @@
+.custom-navbar {
+    background-color: #27BDBE !important;
+}
+
+.share-link{
+    color: #EF1DF5;
+}
+
+.details-link{
+    color: #EF1DF5;
+    margin-bottom: 30px !important;
+    background-color: white !important;
+}
+
+.details-link:hover{
+    color: black;
+}
+
+.input-bike {
+    border: none;
+    width: 30%;
+    height: 35px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #27BDBE;
+}
+
+.input-bike:focus{
+    outline: none;
+}
+
+.input-bike-button{
+    margin-top: 15px;
+    border: none;
+    width: 30%;
+    background-color: grey;
+    color: darkgrey;
+    padding: 10px 0;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.input-bike-button-enabled{
+    margin-top: 15px;
+    border: none;
+    width: 30%;
+    color: white;
+    padding: 10px 0;
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-color: #27BDBE;
+}
+
+.btn-modal-share{
+    margin: 10px 10px 0 0;
+    color: deeppink;
+    font-weight: bold;
+    border: none;
+    background-color: #E9ECEF;
+}
+
+.btn-modal-share:hover{
+    background-color: #E9ECEF;
+}
+
+.btn-falecom {
+    background-color: #27BDBE !important;
+    border: none;
+    margin: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-falecom:hover {
+    color: black;
+    background-color: hotpink !important;
+}
+
+.btn-prosseguir {
+    background-color: yellowgreen !important;
+    border: none;
+    margin: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-prosseguir:hover {
+    color: black;
+    background-color: hotpink !important;
+}
+
+.company-logo {
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+.p-valor {
+    font-size: 36px;
+    font-weight: bold;
+    color: #27BDBE;
+}
+
+.card-disabled{
+    opacity: 0.2;
+}
+
+.form-cadastro {
+    margin-left: 20px;
+}
+
+.sidebar {
+    border: 1px solid #eee;
+    box-shadow: 10px 10px 15px 10px #aaaaaa;
+    margin-left: 20px;
+}
+
+.valor-anual{
+    font-size: 36px;
+    font-weight: bold;
+    color: #27BDBE;;
+}
+
+.plano-escolhido{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.btn-finalizar {
+    text-transform: uppercase;
+    font-size: 28px;
+    padding: 10px 30px;
+}

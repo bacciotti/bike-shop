@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69e0a84a-61bb-4557-bad3-e4e1a44ca438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes/Conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/145a5a89f321c22bedd1b9885194ee8c1677101f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/145a5a89f321c22bedd1b9885194ee8c1677101f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34939670a29e76f16f4a118a3a94401837877525" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34939670a29e76f16f4a118a3a94401837877525" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xOrv9rmKC2tgkuAb7bUj5FFY3M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../virtual_d/var/www/VIRTUALIF" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bikeshop\model" />
+      <recent name="C:\xampp\htdocs\bikeshop" />
+      <recent name="C:\xampp\htdocs\bikeshop\classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bikeshop\model" />
+      <recent name="C:\xampp\htdocs\bikeshop\assets" />
+      <recent name="C:\xampp\htdocs\bikeshop\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e0a84a-61bb-4557-bad3-e4e1a44ca438" name="Default Changelist" comment="" />
+      <created>1630237203895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630237203895</updated>
+      <workItem from="1630237217777" duration="43525000" />
+      <workItem from="1631012449879" duration="39000" />
+      <workItem from="1634564227665" duration="405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1631012489132">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1631012489132" />
+    <state x="775" y="247" key="NewPhpClassDialog" timestamp="1630328918560">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="775" y="247" key="NewPhpClassDialog/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1630328918560" />
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1630358567184">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1630358567184" />
+    <state x="666" y="258" width="587" height="534" key="find.popup" timestamp="1630358791994">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="666" y="258" width="587" height="534" key="find.popup/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1630358791994" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1630433880925">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.86.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1630433880925" />
+  </component>
+</project>
